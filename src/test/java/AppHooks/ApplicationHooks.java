@@ -9,7 +9,6 @@ import org.openqa.selenium.WebDriver;
 import com.qa.factory.DriverFactory;
 import com.qa.utill.ConfigReader;
 
-//Author : Tuhin Das
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
